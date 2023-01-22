@@ -1,0 +1,33 @@
+.classname{
+    background-color: blue;
+    height: 50px;
+    color: white;
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    size: medium;
+    
+}
+#id_one {
+    color: blue;
+    font-size: larger;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#id_two {
+    background-color: aqua;
+    color: black;
+    font-weight: 700;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 50px;
+    text-align:justify;
+ 
+}
+
+.idone{
+    font-size: 36px;
+    font-weight: 300;
+
+}

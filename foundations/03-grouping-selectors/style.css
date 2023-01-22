@@ -1,0 +1,18 @@
+.button_one,.button_two{
+    font-size: 36px;
+    font-weight: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    height: 50px;
+    border: none;
+}
+.button_one{
+    background-color: blueviolet;
+    color: azure;
+
+}
+.button_two{
+    background-color:blue;
+    color:black;
+
+}
